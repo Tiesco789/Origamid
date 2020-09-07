@@ -1,3 +1,4 @@
+/* eslint-disable no-plusplus */
 // const titulos = document.getElementsByClassName('titulo');
 // const titulosArray = Array.from(titulos);
 
