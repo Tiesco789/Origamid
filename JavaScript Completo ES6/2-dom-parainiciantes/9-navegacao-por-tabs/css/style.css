@@ -216,13 +216,13 @@ body {
   }
 }
 
-.js-content section {
+.js-tabcontent section {
   display: none;
 }
 
-.js-content section.ativo {
+.js-tabcontent section.ativo {
   display: block !important;
-  animation: show .5s forwards;
+  animation: show .3s forwards;
 }
 
 @keyframes show {
