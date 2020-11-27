@@ -6,4 +6,4 @@ delete div.dataset.width;
 
 div.dataset.totalHeight = 2000;
 
-console.log(div.dataset);
+// console.log(div.dataset);
