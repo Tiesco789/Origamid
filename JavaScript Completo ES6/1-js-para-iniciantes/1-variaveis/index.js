@@ -3,28 +3,28 @@
  */
 var nome = 'Franccesco';
 var idade = 26;
-var possuiFaculdade = true;
+const possuiFaculdade = true;
 console.log(nome, idade, possuiFaculdade);
 
-var preco = 25;
-var totalComprado = 5;
-var totalPreco = totalComprado * preco;
+const preco = 25;
+const totalComprado = 5;
+const totalPreco = totalComprado * preco;
 console.log(totalPreco);
 
-var sobrenome = 'Antonio',
-    cidade = 'Joinville';
+const sobrenome = 'Antonio';
+const cidade = 'Joinville';
 console.log(sobrenome, cidade);
 
-var semDefinir;
+let semDefinir;
 console.log(semDefinir);
 
 // console.log(aindaNaoDefine);
-var comdia;
+let comdia;
 console.log(comida);
 comida = 'Pizza';
 console.log(comida);
 
-var time = 'MIBR';
+let time = 'MIBR';
 time = 'Luminosity';
 console.log(time);
 
@@ -37,11 +37,11 @@ var idade = 26;
 
 // Declarar uma variável com a sua comida
 // favorita e não atribuir valor
-var comida;
+let comida;
 
 // Atribuir valor a sua comida favorita
 comida = 'Pizza';
 
 // Declarar 5 variáveis diferentes sem valores
-var valor, nota, roupa, hora, jogo;
-
+let valor; let nota; let roupa; let hora; let
+  jogo;
